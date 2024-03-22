@@ -22,12 +22,9 @@ POWER BI MAIN PROJECT
 ## Worldwide Overview:
 
 ## Visualizations: Total cases, deaths, recoveries (cumulative and daily), trend lines, and comparison charts for various countries.
-Data Source: Global COVID-19 dataset sourced from reliable sources such as the World Health Organization (WHO) or Johns Hopkins University.
-Country Overview:
+
 
 ## Visualizations: Interactive maps, bar charts, and tables displaying key metrics (cases, deaths, testing rates) for selected countries.
-Data Source: Country-specific COVID-19 datasets, possibly obtained from government health agencies or reputable research institutions.
-Monthly Overview:
 
 ## Visualizations: Stacked bar charts, line graphs, and trend analysis plots illustrating monthly trends in cases, deaths, and recoveries globally or by region.
 
