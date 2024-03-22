@@ -9,11 +9,9 @@ POWER BI MAIN PROJECT
 
 ## Preprocessing:
 
-## *Data Refinement:
-Streamlined the dataset by eliminating duplicate entries, rectifying missing values, and filtering out extraneous columns to ensure data integrity and accuracy.
+## *Data Refinement:Streamlined the dataset by eliminating duplicate entries, rectifying missing values, and filtering out extraneous columns to ensure data integrity and accuracy.
 
- ##*Integration of Computed Metrics:
-Introduced calculated columns encompassing vital metrics like mortality rate, recovery rate, and active cases, enhancing the dataset's depth and analytical capabilities. Implemented dynamic measures to capture daily fluctuations in new cases, deaths, and recoveries, furnishing real-time insights.
+ ## *Integration of Computed Metrics:Introduced calculated columns encompassing vital metrics like mortality rate, recovery rate, and active cases, enhancing the dataset's depth and analytical capabilities. Implemented dynamic measures to capture daily fluctuations in new cases, deaths, and recoveries, furnishing real-time insights.
 
 ## * Architectural Framework:
 
